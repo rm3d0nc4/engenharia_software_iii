@@ -1,0 +1,5 @@
+1. Qual a relação que coesão possui com as responsabilidades de uma classe?
+
+    Geralmente uma classe coesa sempre apresentará uma única responsabilidade,
+    garantindo que ela irá executar bem a tarefa a qual ela foi designada.
+

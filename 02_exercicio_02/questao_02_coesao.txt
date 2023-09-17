@@ -1,0 +1,14 @@
+2. Contextualize o conceito de coesão de acordo com as fontes abaixo:
+    a. Livro Clean Code: páginas de 140 a 151;
+    b. Artigo Coesão e Acoplamento em Sistemas Orientados a Objetos 
+    disponível em https://www.researchgate.net/publication/261026207_Coesao_e_Acoplamento_em_Sistemas_OO;
+    c. Livro Orientação a Objetos e SOLID para Ninjas Projetando classes
+    flexíveis - Casa do Codigo. Princípio da responsabilidade única. Página 5
+    em diante.
+
+    Coesão refere-se ao nível de relação entre atributos e métodos de uma classe, que juntos
+    são capazes de executar uma única função específica, ou seja, ela não deve ter muitas 
+    responsabilidades. Nesse sentido, uma classe coesa deve manipular todos os seus atributos
+    através dos métodos definidos, sendo que quanto maior for o grau de manipulação dos atributos,
+    maior será o nível de coesão. Este conceito está intimamente ligado com o Princípio da responsabilidade
+    única, um dos princípios do SOLID.

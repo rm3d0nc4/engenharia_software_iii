@@ -1,0 +1,4 @@
+6. Explique com suas palavras o que é o acoplamento entre classes.
+
+    Denomina-se acoplamento qualquer tipo de conexão, conhecimento ou relacionamento
+    que venha a causa dependência entre dois ou mais módulos de um sistema;

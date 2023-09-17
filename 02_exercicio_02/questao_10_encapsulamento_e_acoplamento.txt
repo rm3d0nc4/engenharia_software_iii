@@ -1,0 +1,10 @@
+10. O encapsulamento também mitiga o acoplamento alto? Discuta o exemplo da
+página 7 do artigo Coesão e Acoplamento em Sistemas Orientados a Objetos.
+    Sim! Quando uma classe é encapsulada, apenas os métodos que irão interagir
+    com o escopo externo ficam visíveis no mesmo. Quaisquer outros recursos ficarão
+    invisíveis a outras classes, fazendo com a dependência seja a mais fraca possivel,
+    já que outras classes irão conhecê-la minimamente.
+
+    O exemplo ilustra bem como o encapsulamento pode ser útil para promover o desacoplamento,
+    já que todos os atributos são privados, ou seja, o escopo externo sabe apenas que ela possui
+    uma data, desconhecendo como a classe Evento organiza essa informação.

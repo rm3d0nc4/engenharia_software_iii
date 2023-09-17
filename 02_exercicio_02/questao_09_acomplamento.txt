@@ -1,0 +1,6 @@
+9. É possivel zerar o acoplamento em um software simples ou complexo? Justifique.
+    
+    Na maioria das vezes não é possível zerar um acoplamento entre dependencias, 
+    visto que esse relacionamento é necessário para a execucão total de uma tarefa. 
+    No entanto, a adoção de boas práticas pode fazer com que esse acoplamento 
+    seja o mínimo possível.
