@@ -1,0 +1,5 @@
+ID: 1
+Texto: qualquer coisa
+Autor: anastacio
+Data: 1696387777722
+Quantidade de Likes: 0
